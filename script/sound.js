@@ -137,7 +137,7 @@ class Sound {
           }
           if (settings.settings.voicebank !== 'off') {
             for (const voxName of [
-              'ready', 'start', 'go', 'erase2', 'erase3', 'erase4', 'b2b_erase4', 'tspin0', 'tspin1',
+              'ready', 'start', 'go', 'erase1', 'erase2', 'erase3', 'erase4', 'b2b_erase4', 'tspin0', 'tspin1',
               'tspin2', 'tspin3', 'minitspin', 'b2b_tspin', 'perfectclear', 'ren1', 'ren2', 'ren3',
               'blockout', 'lockout', 'topout', 'timeup', 'excellent', 'gameover',
             ]) {
