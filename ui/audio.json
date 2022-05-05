@@ -155,6 +155,11 @@
       "action": "select",
       "selectOptions": [
         {
+          "label": "Scream",
+          "fixedText": true,
+          "value": "scream"
+        },
+        {
           "label": "[EN] Sora",
           "fixedText": true,
           "value": "soraen"
